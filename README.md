@@ -1,2 +1,2 @@
-# mi-historia-
+# mi-historia
 Todo acerca de mi.
